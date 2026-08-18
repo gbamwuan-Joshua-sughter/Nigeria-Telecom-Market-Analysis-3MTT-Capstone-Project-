@@ -102,4 +102,4 @@ Power BI dashboard development
 Business insight generation
 ## 📸 Dashboard Preview
 
-![Nigeria Telecommunications Market Analysis Dashboard](Capstone Dashboard.png)
+![Nigeria Telecommunications Market Analysis Dashboard](Capstone%20Dashboard.png)
